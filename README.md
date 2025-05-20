@@ -9,9 +9,9 @@ I'm a passionate Frontend Developer and UX/UI Designer who loves creating beauti
 
 
 
-- 🎨 Currently working on **Travel agency React website**
-- 🌱 Learning **Python**
-- 💬 Ask me about **UI Design, Frontend Development, User Experience**
+-  Currently working on **Travel agency React website**
+-  Learning **Python**
+-  Ask me about **UI Design, Frontend Development, User Experience**
 
 
   
@@ -30,10 +30,10 @@ I'm a passionate Frontend Developer and UX/UI Designer who loves creating beauti
 </div>
 
 I believe in creating designs that are:
-- 🌟 **User-Centered** - Putting the user's needs first
-- 🎀 **Aesthetically Pleasing** - Beautiful interfaces that delight
-- 💎 **Functional** - Solving real problems with elegant solutions
-- 🚀 **Performant** - Fast, responsive, and accessible experiences
+-  **User-Centered** - Putting the user's needs first
+-  **Aesthetically Pleasing** - Beautiful interfaces that delight
+-  **Functional** - Solving real problems with elegant solutions
+-  **Performant** - Fast, responsive, and accessible experiences
 
 
 ##  GitHub Stats
